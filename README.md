@@ -21,11 +21,11 @@ with our recommendations to take things to the "next step". Our method is simple
 * IP Address Finder
 
 ### Future Recommendations:
-Adding more events around town i.e. concerts, plays, galleries
+* Adding more events around town i.e. concerts, plays, galleries
 
-Adding an advice column with suggested conversation starters
+* Adding an advice column with suggested conversation starters
 
-Future development to utilize backend databases to log date history and provide users with suggestions and schedule for an entire date night
+* Future development to utilize backend databases to log date history and provide users with suggestions and schedule for an entire date night
 
 ### Code Sources:
 https://codepen.io/P1N2O/pen/pyBNzX
@@ -44,4 +44,4 @@ Adina Cianciotto,
 Alex Wilson, 
 Davis Birsan
 
-#### Deploy this application at: https://alexw519.github.io/Project1/
+#### Deploy this application at: https://adi868.github.io/NextStep/.
