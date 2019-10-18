@@ -1,11 +1,10 @@
 # NextStep
-
+## Overview
 ![Logo](https://github.com/alexw519/Project1/blob/master/assets/images/LogoWords%20(2).png "NextStep Logo")
 
 NextStep is a web and mobile friendly application uniquely designed to provide users and their partner with their relationship compatibility as well as personalized date suggestions to take their relationship to the "next step".
 
-## Overview
-### How does it work?
+### How Does It Work?
 Using up-to-date technology, we have utilized an interactive love calculator API to determine whether or not you and your crush are the perfect match. Once we calculate you and your crushes' compatibility, our app uses your own preferences and provides couples
 with our recommendations to take things to the "next step". Our method is simple: enter your names, ages, locations, and preferences for a desired date and NextStep will provide users with personalized recommendations for an accessible and customized date night. Interact with our fun and dynamic application to get your own customized date today!
 
@@ -15,6 +14,7 @@ with our recommendations to take things to the "next step". Our method is simple
 * JavaScript
 * Materialize
 * CSS Animations
+
 #### APIS:
 * Love Calculator API
 * Google Maps
@@ -44,4 +44,4 @@ Adina Cianciotto,
 Alex Wilson, 
 Davis Birsan
 
-#### Deploy this application at: https://alexw519.github.io/Project1/
+#### Deploy This Application At: https://alexw519.github.io/Project1/
