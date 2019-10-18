@@ -44,4 +44,4 @@ Adina Cianciotto,
 Alex Wilson, 
 Davis Birsan
 
-#### Deploy this application at: https://adi868.github.io/NextStep/.
+#### Deploy this application at: https://alexw519.github.io/Project1/
